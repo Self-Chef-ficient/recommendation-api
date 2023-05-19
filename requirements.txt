@@ -1,0 +1,15 @@
+flask-cors
+numpy
+Pillow
+tqdm
+pandas
+click
+colorama
+Flask
+gunicorn
+Jinja2
+MarkupSafe
+Werkzeug
+neo4j
+autocorrect
+nltk
